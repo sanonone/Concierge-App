@@ -19,7 +19,8 @@ Il software è stato sviluppato unicamente da me in circa 10 mesi, inizialmente 
 Il tutto si appoggia su firebase sia per quanto riguarda il DB noSQL che per l'hosting del frontend ed il backend con cloud functions
 
 
-## Descrizione
+## Descrizione!
+
 
 ### Generale
 Il software **Concierge** nasce con l'idea di essere venduto con canone annuale a strutture (alberghi ecc) per gestire la creazione, prenotazione e vendita di servizi ai loro clienti tramite mobile app o interfaccia web, tutta la fase di creazione e gestione è possibile da un backoffice web dove si potranno creare i prodotti, i servizi, card descrittive di vetrina per la struttura da far visualizzare nell'app ecc. Si è prestata particolare attenzione sul permettere al gestore della struttura l'indipendenza per personalizzare il più possibile l'interfaccia dell'app mobile in modo da restare coerente con loghi ed immagine generale della struttura.
@@ -37,6 +38,7 @@ Dall'app mobile scaricabile dagli store android e apple i clienti dell'albergo a
 I login come ospite esterno o ospite avranno delle limitazioni che impediranno al cliente di accedere ad alcune sezioni dell'app visto la mancanza di una registrazione completa. In ogni caso il login come ospite è a discrezione della struttura è può essere disabilitato dal backoffice.
 Una volta effettuato il login i clienti avranno diverse schermate dove potranno visualizzare informazioni sulla struttura, i prodotti per il servizio in camera, servizi disponibili, lo stato di prenotazione (confermata, rifiutata, in attesa) e molto altro.
 
-caricare foto ecc
+
+![GIF_20250113_200116_271](https://github.com/user-attachments/assets/3cfbf040-30f7-4dc6-be65-0c59a5dfe5f5)
 
 
