@@ -77,9 +77,11 @@ Una volta effettuato il login, i clienti possono:
 ### Mobile App
 ![GIF Demo 3](https://github.com/user-attachments/assets/3cfbf040-30f7-4dc6-be65-0c59a5dfe5f5)  
 
+
 ### Backoffice
 ![GIF_20250113_202302_832](https://github.com/user-attachments/assets/84d9cb06-8a2a-4281-b7df-6bae65152059)
 ![GIF_20250113_202432_824](https://github.com/user-attachments/assets/5663188b-fba8-494c-af2c-2e11cfe6aa57)
+
 
 ### Prenotazione servizi tramite collegamento web
 ![GIF_20250113_202854_080](https://github.com/user-attachments/assets/4e45c80c-8054-4e4b-85fe-d03a9aeae9c4)
